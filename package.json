@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/ElmiriYounes/Project-Hangman-VanillaJavascript.git/issues"
   },
-  "homepage": "https://github.com/ElmiriYounes/Project-Hangman-VanillaJavascript.git#readme",
+  "homepage": "https://elmiriyounes.github.io/Project-Hangman-VanillaJavascript/",
   "devDependencies": {
     "@babel/core": "^7.18.5",
     "@babel/preset-env": "^7.18.2",

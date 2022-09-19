@@ -2,7 +2,7 @@
 
 ![Screenshot of the game](./src/assets/images/demo.gif "Screenshot of the game")
 
-## [ ----> [View demo](https://elmiriyounes.github.io/hangman//) <---- ]
+## [ ----> [View demo](https://elmiriyounes.github.io/Project-Hangman-VanillaJavascript/) <---- ]
 
 ## About-the-project 🚀
 

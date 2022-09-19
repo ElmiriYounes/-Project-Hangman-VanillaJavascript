@@ -100,7 +100,7 @@ const play = () => {
 
   const gameOver = () => {
     audioCri.play();
-    msgEnd.innerHTML = `game over ! the hidden word: ${word}</br><a href="/hangman"><button class="reset">Restart</button></a>`;
+    msgEnd.innerHTML = `game over ! the hidden word: ${word}</br><a href="/Project-Hangman-VanillaJavascript"><button class="reset">Restart</button></a>`;
     msgEnd.style.color = "red";
     body.classList.add("hang");
     msgEnd.style.display = "block";

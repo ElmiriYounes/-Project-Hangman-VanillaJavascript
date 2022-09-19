@@ -1,11 +1,3 @@
-# HANGMAN GAME
-
-![hangman image](https://store-images.s-microsoft.com/image/apps.31378.14440169033196048.33ec04e1-f2d4-46ed-a05b-03b332738f93.8032cfe7-683a-4be1-8b4c-9da7dc14c2b3?q=90&w=480&h=270)
-
-## link of website
-[hangman game](https://elmiriyounes.github.io/hangman)
-
-
 # Hangman project
 
 ![Screenshot of the game](./src/assets/images/screenshot.png "Screenshot of the game")

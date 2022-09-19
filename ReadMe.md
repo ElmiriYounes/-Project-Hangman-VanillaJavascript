@@ -1,6 +1,6 @@
 # Hangman project
 
-![Screenshot of the game](./src/assets/images/screenshot.png "Screenshot of the game")
+![Screenshot of the game](./src/assets/images/demo.gif "Screenshot of the game")
 
 ## [ ----> [View demo](https://elmiriyounes.github.io/hangman//) <---- ]
 
